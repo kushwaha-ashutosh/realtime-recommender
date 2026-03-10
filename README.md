@@ -224,7 +224,7 @@ gcloud run deploy recommender-api \
 
 ## Author
 
-Your Name  
+Ashutosh Kushwaha 
 GitHub: https://github.com/kushwaha-ashutosh
 
 ---
